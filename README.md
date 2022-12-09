@@ -15,7 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en&layout=compac" alt="ashikfec01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikfec01&theme=highcontrast" alt="ashikfec01" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikfec01" alt="ashikfec01" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kazi ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi ashik" height="30" width="40" /></a>
