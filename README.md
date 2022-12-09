@@ -12,7 +12,7 @@
 - 💬 Ask me about **Angular 10+, NestJs**
 
 - 📫 How to reach me **kaziashik999@gmail.com**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="ashikfec01" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en&layout=compac)" alt="ashikfec01" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en" alt="ashikfec01" /></p>
