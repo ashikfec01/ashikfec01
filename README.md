@@ -14,8 +14,7 @@
 - 📫 How to reach me **kaziashik999@gmail.com**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en&layout=compac" alt="ashikfec01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikfec01&theme=highcontrast" alt="ashikfec01" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashikfec01&theme=dark&type=png&card_width=500&fire=FE5B5B)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashikfec01&theme=dark&type=png&card_width=500&fire=FE5B5B" alt="ashikfec01" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
