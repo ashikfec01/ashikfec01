@@ -1,92 +1,49 @@
-### Contact
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-```
-+8801884522131 (Mobile)
-kaziashik999@gmail.com
-```
-```
-http://www.linkedin.com/in/kazi-ashik
-(LinkedIn)
-```
-### Top Skills
+###
 
-```
-Angular
-NestJS
-Go (Programming Language)
-```
-# Kazi Ashik
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-#### Senior Software Developer
+###
 
-#### Dhaka, Dhaka, Bangladesh
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## Summary
+###
 
-#### Working with modern technology is my passion. I feel very eager to
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-#### troubleshooting and improvement of the system.
+###
 
-#### So, I pursue my career to attain the highest level of professionalism
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-#### and efficacy to face futuristic
+###
 
-#### challenges.
+<br clear="both">
 
-## Experience
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-#### CLASSTUNE
-
-#### Senior Software Developer
-
-```
-September 2023 - Present (5 months)
-Banani, Dhaka 1213
-```
-#### SSL Wireless
-
-#### Software Specialist
-
-```
-May 2023 - August 2023 (4 months)
-27, 1 New Eskaton Road, Dhaka 1000
-```
-#### ClassTune
-
-#### Angular Developer
-
-```
-June 2021 - May 2023 (2 years)
-House 54, Road 10, Block E Enamul Hoq Chowdhury Road, Dhaka 1213,
-Bangladesh
-```
-#### Storrea.com
-
-#### Web Application Developer
-
-```
-May 2020 - May 2021 (1 year 1 month)
-13/A Bir Uttam CR Dutta Rd, Dhaka 1205, Bangladesh
-```
-#### isolutionbd
-
-#### Frontend Developer
-
-```
-January 2019 - February 2020 (1 year 2 months)
-Faridpur, Dhaka, Bangladesh
-```
-#### Page^1 of^2
-
-
-## Education
-
-#### University of Dhaka
-
-```
-Bachelor of Engineering - BE, Electrical and Electronics
-Engineering · (2013 - 2018)
-```
-#### Page^2 of^2
-
-
+###
