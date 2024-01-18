@@ -1,27 +1,92 @@
-<h1 align="center">Hi 👋, I'm Kazi Ashik Al Islam</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh</h3>
+### Contact
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikfec01&label=Profile%20views&color=0960be&style=plastic" alt="ashikfec01" /> </p>
+```
++8801884522131 (Mobile)
+kaziashik999@gmail.com
+```
+```
+http://www.linkedin.com/in/kazi-ashik
+(LinkedIn)
+```
+### Top Skills
+
+```
+Angular
+NestJS
+Go (Programming Language)
+```
+# Kazi Ashik
+
+#### Senior Software Developer
+
+#### Dhaka, Dhaka, Bangladesh
+
+## Summary
+
+#### Working with modern technology is my passion. I feel very eager to
+
+#### troubleshooting and improvement of the system.
+
+#### So, I pursue my career to attain the highest level of professionalism
+
+#### and efficacy to face futuristic
+
+#### challenges.
+
+## Experience
+
+#### CLASSTUNE
+
+#### Senior Software Developer
+
+```
+September 2023 - Present (5 months)
+Banani, Dhaka 1213
+```
+#### SSL Wireless
+
+#### Software Specialist
+
+```
+May 2023 - August 2023 (4 months)
+27, 1 New Eskaton Road, Dhaka 1000
+```
+#### ClassTune
+
+#### Angular Developer
+
+```
+June 2021 - May 2023 (2 years)
+House 54, Road 10, Block E Enamul Hoq Chowdhury Road, Dhaka 1213,
+Bangladesh
+```
+#### Storrea.com
+
+#### Web Application Developer
+
+```
+May 2020 - May 2021 (1 year 1 month)
+13/A Bir Uttam CR Dutta Rd, Dhaka 1205, Bangladesh
+```
+#### isolutionbd
+
+#### Frontend Developer
+
+```
+January 2019 - February 2020 (1 year 2 months)
+Faridpur, Dhaka, Bangladesh
+```
+#### Page^1 of^2
 
 
+## Education
 
-- 🔭 I’m currently working on [শেখ রাসেল স্কুল অব ফিউচার](https://sof.edu.bd/)
+#### University of Dhaka
 
-- 🌱 I’m currently learning **C#, .Net core, Blazor WebAssembly, Azure, Azure Functions**
-
-- 💬 Ask me about **Angular 10+, NestJs**
-
-- 📫 How to reach me **kaziashik999@gmail.com**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikfec01&show_icons=true&theme=highcontrast&locale=en&layout=compac" alt="ashikfec01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashikfec01&theme=dark&type=png&card_width=500&fire=FE5B5B" alt="ashikfec01" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kazi ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi ashik" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```
+Bachelor of Engineering - BE, Electrical and Electronics
+Engineering · (2013 - 2018)
+```
+#### Page^2 of^2
 
 
