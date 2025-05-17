@@ -1,4 +1,4 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="kazi-ashik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/kazi-ashik?trk=profile-badge">Kazi Ashik</a></div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-ashik)
               
 <h2 align="left">Hi 👋! My name is KAZI ASHIK AL ISLAM.</h2>
 
